@@ -1,0 +1,19 @@
+a=10
+print(a)
+a=[1,2,3,4,5,6,7,8,9,0]
+print(a)
+print(len(a))
+print(type(a))
+a=(12,14)
+print(a)
+print(len(a))
+print(type(a))
+a={12,345}
+print(a)
+print(len(a))
+print(type(a))
+a={"1cd22cs058" :"jyoshna","1cd22cs094":"neha", "1cd22cs103":"prajwal"}
+print(a)
+print(len(a))
+print(type(a))
+print(a.get("1cd22cs094"))
